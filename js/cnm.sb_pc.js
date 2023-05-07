@@ -162,7 +162,7 @@ window.onload=function()
 		$("#nav03").animate({"left":"-100%"},800);
 		$("#nav04").animate({"left":"-100%"},800);
 		$("#nav05").animate({"left":"-100%"},800);
-		$("#nav06").animate({"left":"-100%"},800);
+		$("#nav06").animate({"left":"-120%"},800);
 		$("#nav07").animate({"left":"0%"},800);
 		$("#nav08").animate({"left":"0%"},800);
 	})	
@@ -181,7 +181,7 @@ window.onload=function()
 		$("#nav03").animate({"left":"-100%"},800);
 		$("#nav04").animate({"left":"-100%"},800);
 		$("#nav05").animate({"left":"-100%"},800);
-		$("#nav06").animate({"left":"-100%"},800);
+		$("#nav06").animate({"left":"-120%"},800);
 		$("#nav07").animate({"left":"-100%"},800);
 		$("#nav08").animate({"left":"0%"},800);
 	})	
