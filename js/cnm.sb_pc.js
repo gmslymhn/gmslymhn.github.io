@@ -149,6 +149,8 @@ window.onload=function()
 	})
 
 	$("#cleft_li07").click(function(){
+		var checkbox = document.getElementById("toggle");
+          checkbox.checked = true;
 		$("#cleft_li01").css({"background-color":"#f9f9f9"});
 		$("#cleft_li02").css({"background-color":"#f9f9f9"});
 		$("#cleft_li03").css({"background-color":"#f9f9f9"});
@@ -162,12 +164,14 @@ window.onload=function()
 		$("#nav03").animate({"left":"-100%"},800);
 		$("#nav04").animate({"left":"-100%"},800);
 		$("#nav05").animate({"left":"-100%"},800);
-		$("#nav06").animate({"left":"-120%"},800);
+		$("#nav06").animate({"left":"-100%"},800);
 		$("#nav07").animate({"left":"0%"},800);
 		$("#nav08").animate({"left":"0%"},800);
 	})	
 
 	$("#cleft_li08").click(function(){
+		var checkbox = document.getElementById("toggle");
+          checkbox.checked = true;
 		$("#cleft_li01").css({"background-color":"#f9f9f9"});
 		$("#cleft_li02").css({"background-color":"#f9f9f9"});
 		$("#cleft_li03").css({"background-color":"#f9f9f9"});
@@ -181,7 +185,7 @@ window.onload=function()
 		$("#nav03").animate({"left":"-100%"},800);
 		$("#nav04").animate({"left":"-100%"},800);
 		$("#nav05").animate({"left":"-100%"},800);
-		$("#nav06").animate({"left":"-120%"},800);
+		$("#nav06").animate({"left":"-100%"},800);
 		$("#nav07").animate({"left":"-100%"},800);
 		$("#nav08").animate({"left":"0%"},800);
 	})	
