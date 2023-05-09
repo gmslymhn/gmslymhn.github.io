@@ -271,58 +271,11 @@ a{
 }
 .exnav03_p{
 	width: 100%;
-	height: 90%;
+	height: 100%;
 	margin: auto;
 	text-align: center;
 }
-.exnav03_p h3{
-	font: 27px cnm,Arial,sans-serif;
-	text-shadow: 5px 5px 5px #909090;
-	letter-spacing: 8px;
-	margin-top: 50%;
-	color: #282828;
-}
-.exnav03_p h3 span{
-	font: 27px;
-	font-family: "宋体";
-	text-shadow: 5px 5px 5px #909090;
-	letter-spacing: 8px;
-	margin-top: 50%;
-	color: #282828;
-}
-.exnav03_p h5{
-	font-size: 16px;
-	letter-spacing: 3px;
-	margin-top: 10px;
-	color: #282828;
-}
-.exnav03_p p{
-	font-size: 12px;
-	letter-spacing: 3px;
-	margin-top: 15%;
-	color: #b2b2b2;
-}
-.exnav03_team{
-	width: 100%;
-	height: 26%;
-	position: absolute;
-	bottom: 0px;
-	left: 0;
-	font-size: 0px;
-	text-align: center;
-}
-.exnav03_team img{
-	width: 60px;
-}
-.exnav03_team img:nth-child(1){
-	width: 55px;
-}
-.exnav03_team img:nth-child(4){
-	width: 75px;
-}
-.exnav03_team img:nth-child(5){
-	width: 58px;
-}
+
 /* NO4-商业合作 */
 #exnav04{
 	width: 100%;
