@@ -1,0 +1,116 @@
+// you can change colors here
+/* 替换原来的 html,body 样式 */
+html {
+  max-width: 100% !important;
+  /* 关键修改：只在 html 层限制横向滚动 */
+  overflow-x: hidden !important;
+}
+
+body {
+  /* 关键修复：允许 body 正常滚动 */
+  overflow-x: visible !important;
+  position: relative; /* 为粘性定位创建上下文 */
+}
+
+.vp-blogger-avatar {
+  border-radius: 20%; /* 这会创建圆形头像 */
+}
+.vp-article-cover {
+  width: calc(100% + 2.5rem);
+  max-height: 300px; /* 限制最大高度 */
+  margin: -0.75rem -1.25rem 0.75rem;
+  border-top-left-radius: 0.4rem;
+  border-top-right-radius: 0.4rem;
+  object-fit: cover;
+}
+
+
+/* 1. 解除所有上级容器限制 */
+#app,
+.vp-page,
+.main-container,
+.page-cover {
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 2. 封面容器强制全屏 */
+.page-cover {
+  width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  position: relative;
+  overflow: hidden; /* 新增：防止内容溢出 */
+  left: 0;
+}
+
+/* 3. 图片样式：不限制高度 + 全屏宽度 */
+.page-cover img {
+  width: 100% !important;
+  height: auto !important; /* 关键改动：取消固定高度 */
+  max-height: 450px !important; /* 移除最大高度限制 */
+  border-radius: 0;
+  object-fit: cover;
+  display: block;
+  max-width: 100vw !important; /* 新增限制 */
+  margin-left: calc(-50vw + 50%); /* 居中修正 */
+}
+
+/* 4. 移动端适配（可选） */
+@media (max-width: 768px) {
+  .page-cover img {
+    height: auto; /* 保持响应式高度 */
+  }
+}
+
+/* 移除.vp-blog-mask的背景遮罩层 */
+.vp-blog-mask::after {
+  display: none !important; /* 直接隐藏遮罩层 */
+}
+
+
+:root {
+  /* 核心品牌色 */
+  --vp-c-brand: #f26d6d;
+  --vp-c-brand-light: #f26d6d;
+  --vp-c-brand-lighter: #f26d6d;
+  --vp-c-brand-dark: #f26d6d;
+  --vp-c-brand-darker: #f26d6d;
+
+  /* 强调色系列（关键！） */
+  --vp-c-accent: #f26d6d !important;
+  --vp-c-accent-bg: #f26d6d !important;
+  --vp-c-accent-hover: #f26d6d !important;
+  --vp-c-accent-soft: rgba(242, 109, 109, 0.14) !important;
+
+  /* 文本色（确保可读性） */
+  --vp-c-brand-text: #fff;
+  --vp-c-accent-text: #fff;
+}
+
+/* 适用于 Webkit 内核浏览器（Chrome/Safari/Edge） */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #f26d6d;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg-alt); /* 使用主题的背景色 */
+}
+
+/* 适用于 Firefox */
+html {
+  scrollbar-color: #f26d6d var(--vp-c-bg-alt);
+  scrollbar-width: thin;
+}
+
+
+
+
+
+
