@@ -135,3 +135,8 @@ html {
   word-break: break-word;
 }
 
+
+:root {
+  --search-input-width: 16rem; /* 默认8rem，建议改为12-20rem */
+  --search-result-width: 30rem; /* 结果框同步加宽，可选 */
+}

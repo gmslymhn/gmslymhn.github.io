@@ -79,7 +79,9 @@
     // 在这里配置主题提供的插件
     plugins: {
       blog: true,
-
+      search: {
+        // 搜索框配置
+      },
       components: {
         components: [
             // "VidStack",
