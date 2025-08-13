@@ -90,3 +90,4 @@ https://pan.xunlei.com/s/VOOIUEaaHHTTjSe39Cea2Fa2A1?pwd=fu2i#
 | ![Docker面板管理](https://qdreader.95ib.com/online/upload/guest/2025/04/20/17451568631798.png) | **Docker面板管理**• 图形化容器/镜像管理界面• 镜像仓库加速下载• SSH隧道直连远程Docker守护进程• 可视化操作降低CLI使用门槛 |          |
 | ![容器监控面板](https://qdreader.95ib.com/online/upload/guest/2025/04/20/17451568626427.png) | **容器监控面板**• 实时资源趋势图（CPU/内存/IO）• 容器生命周期管理• 进程级资源占用分析• 可视化历史监控数据回溯 |          |
 | ![日志管理系统](https://qdreader.95ib.com/online/upload/guest/2025/04/20/17451568606206.png) | **日志管理系统**• 智能日志过滤（关键词/正则表达式）• ANSI色彩渲染与日志分级• 动态日志行数控制（1k-100k行）• 双流监控（stdout/stderr独立通道）• 时间戳与行号标记体系 |          |
+

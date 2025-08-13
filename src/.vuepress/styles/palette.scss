@@ -113,4 +113,25 @@ html {
 
 
 
+/* 修复表格布局（直接针对主题默认表格样式） */
+#app table {
+  display: table !important;    /* 覆盖 display: block */
+  width: 100% !important;
+  table-layout: auto !important;
+  overflow: hidden !important; /* 禁用横向滚动 */
+  margin: 1rem 0 !important;  /* 保留原有外边距 */
+}
+
+/* 图片约束 */
+#app table img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 单元格优化 */
+#app td,
+#app th {
+  min-width: 0 !important;
+  word-break: break-word;
+}
 
