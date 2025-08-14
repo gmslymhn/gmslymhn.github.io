@@ -18,7 +18,7 @@ date: 2023-08-12              # 【推荐】格式：YYYY-MM-DD 或 YYYY-MM-DD h
 isOriginal: true              # 【可选】标记为原创文章（默认false）
 
 # 🏷️ 分类标签
-category: ["技术文档"]         # 支持字符串或数组
+category: ["加密"]         # 支持字符串或数组
 tag: ["加密", "模板"]      # 多个标签用数组表示
 
 # 📜 版权信息
