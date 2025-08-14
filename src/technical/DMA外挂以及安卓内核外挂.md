@@ -51,11 +51,11 @@ DMA外挂以及安卓内核外挂
 
 ![](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/3cd3831bd29948da022b24abc7df449e2361d697eee4f40cbd7ce41f9350287bf1d4e7b45d55305e46e639642af91dec?pictype=scale&from=30013&version=3.3.3.3&fname=2025-05-06nRLZT.jpg&size=750)
 
-## DMA外挂
+## 内核外挂
 
-上面说了安卓最近的内核外挂，那么电脑端的呢？
+内核外挂是一种通过修改或扩展操作系统内核功能来实现特定目的的技术手段。请注意，使用未经授权的内核外挂可能违反法律法规和计算机系统的使用条款，并可能导致系统不稳定、数据丢失甚至安全问题。因此，本文档仅供学习和研究之用，严禁用于非法用途。
 
-我最近也去了解了一下，只能说一句.....好家伙。
+
 
 <video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iDjPo2vjoskf&pwd=csvj&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
 ## DMA外挂
