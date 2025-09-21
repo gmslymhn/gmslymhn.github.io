@@ -78,7 +78,7 @@ onMounted(() => {
 .pdf-preview {
   position: relative;
   height: auto; /* 改为自适应高度 */
-  min-height: 100vh; /* 限制最大高度 */
+  aspect-ratio: 1/1.41; /* 设置宽高比为 1:1.41 */
   padding: 20px 0;
   width: 100%;
   box-sizing: border-box;
