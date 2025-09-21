@@ -83,7 +83,6 @@ onMounted(() => {
   width: 100%;
   box-sizing: border-box;
   background-color: #e9e9e9;
-  overflow: auto; /* 添加滚动条 */
 }
 
 
