@@ -77,15 +77,19 @@ onMounted(() => {
 <style scoped>
 .pdf-preview {
   position: relative;
-  height: 100vh;
+  height: auto; /* 改为自适应高度 */
+  min-height: 100vh; /* 限制最大高度 */
   padding: 20px 0;
+  width: 100%;
   box-sizing: border-box;
   background-color: #e9e9e9;
+  overflow: auto; /* 添加滚动条 */
 }
+
 
 .vue-pdf-embed {
   text-align: center;
-  width: 515px;
+  width: 100%;
   border: 1px solid #e5e5e5;
   margin: 0 auto;
   box-sizing: border-box;
