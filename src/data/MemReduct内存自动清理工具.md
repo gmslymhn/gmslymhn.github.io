@@ -67,4 +67,4 @@ MemReduct是国外一款专业的内存清理软件，现在越来越多的软�
 
 ## 下载链接
 
-[](https://netlify-lz.tyut.tech/?fid=in7VT273s1bi&pwd=h6rg&isNewd=https://innlab.lanzn.com)
+[MemReduct](https://netlify-lz.tyut.tech/?fid=in7VT273s1bi&pwd=h6rg&isNewd=https://innlab.lanzn.com)

@@ -75,4 +75,4 @@ imgAlpha=255
 
 ## 下载链接
 
-[](https://netlify-lz.tyut.tech/?fid=is6fr273subc&pwd=akqy&isNewd=https://innlab.lanzn.com)
+[下载链接](https://netlify-lz.tyut.tech/?fid=is6fr273subc&pwd=akqy&isNewd=https://innlab.lanzn.com)

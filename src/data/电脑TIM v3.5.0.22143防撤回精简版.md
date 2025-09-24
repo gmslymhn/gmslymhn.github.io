@@ -103,4 +103,4 @@ BIN模块、插件组件、终端设备登陆、QS安全扫描、QP安全防护�
 
 ## 下载地址
 
-[](https://netlify-lz.tyut.tech/?fid=ikOuM2as8p4d&pwd=g4iq&isNewd=https://innlab.lanzn.com)
+[TIM](https://netlify-lz.tyut.tech/?fid=ikOuM2as8p4d&pwd=g4iq&isNewd=https://innlab.lanzn.com)

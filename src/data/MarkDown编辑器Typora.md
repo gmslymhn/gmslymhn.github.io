@@ -53,4 +53,4 @@ Typora中文版是一款Markdown编辑器及阅读器的文本编辑器.Typora�
 
 ## 下载地址
 
-[](https://netlify-lz.tyut.tech/?fid=iurEQ27a0rkh&pwd=guef&isNewd=https://innlab.lanzn.com)
+[Typora中文版](https://netlify-lz.tyut.tech/?fid=iurEQ27a0rkh&pwd=guef&isNewd=https://innlab.lanzn.com)
