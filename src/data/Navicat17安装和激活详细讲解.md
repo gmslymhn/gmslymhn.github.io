@@ -46,7 +46,7 @@ Navicat最新版后，多了个连接Redis的功能，更丰富了。所以我�
 注意：安装好Navicat之后，先不要打开
 ## 下载破解补丁
 
-[Navicat破解补丁](https://netlify-lz.tyut.tech/?fid=iSxmB273ti8d&pwd=gux6&isNewd=https://innlab.lanzn.com)
+[Navicat破解补丁](http://lz.tyut.tech/lz?fid=iSxmB273ti8d&pwd=gux6&isNewd=https://innlab.lanzn.com)
 ## 一、下载
 
 官方地址：[Navicat官方下载地址](https://www.navicat.com.cn/)

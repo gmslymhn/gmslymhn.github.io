@@ -40,4 +40,4 @@ cover: "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/baa47802c8aa6a
 总有一条蜿蜒在童话镇里七彩的河
 <!-- more -->
 
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=i98t227ly65g&pwd=guqo&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=test&pwd=6666&isNewd=https://innlab.lanzn.comhttps://lz.tyut.tech/lz?fid=test&pwd=6666&isNewd=https://innlab.lanzn.com?fid=i98t227ly65g&pwd=guqo&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>

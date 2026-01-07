@@ -37,6 +37,6 @@ cover: ""  # 文章卡片封面图（建议尺寸：1200×600）
 
 ---
 
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=ihGUk24a1oif&pwd=6omw&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP4播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=ihGUk24a1oif&pwd=6omw&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP4播放 </video>
 
 

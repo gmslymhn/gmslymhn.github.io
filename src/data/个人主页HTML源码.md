@@ -50,4 +50,4 @@ cover: "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/06cfc91beb5357
 
 ## 下载链接
 
-[源码](https://netlify-lz.tyut.tech/?fid=i86em279zxvi&pwd=7yhx&isNewd=https://innlab.lanzn.com)
+[源码](http://lz.tyut.tech/lz?fid=i86em279zxvi&pwd=7yhx&isNewd=https://innlab.lanzn.com)

@@ -56,4 +56,4 @@ ps:文章原文[https://www.52pojie.cn/thread-1955462-1-1.html](https://www.52po
 
 ![](https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/424060bdb16ce2eb7bba193c5bbb5803c5e3a5df45cec9b3bddd20c391aed85a21ee43d7c4a7bac6278d347725a9473e?pictype=scale&from=30013&version=3.3.3.3&fname=2024-09-28xbCc2.png&size=1000)
 
-[](https://netlify-lz.tyut.tech/?fid=iFMmz2du2uxg&pwd=i7g2&isNewd=https://innlab.lanzn.com)
+[](http://lz.tyut.tech/lz?fid=iFMmz2du2uxg&pwd=i7g2&isNewd=https://innlab.lanzn.com)

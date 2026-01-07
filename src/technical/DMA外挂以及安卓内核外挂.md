@@ -57,14 +57,14 @@ DMA外挂以及安卓内核外挂
 
 
 
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iDjPo2vjoskf&pwd=csvj&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=iDjPo2vjoskf&pwd=csvj&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
 ## DMA外挂
 
 上面说了安卓最近的内核外挂，那么电脑端的呢？
 
 我最近也去了解了一下，只能说一句.....好家伙。
 
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iqhGX2vjqkze&pwd=gk0e&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=iqhGX2vjqkze&pwd=gk0e&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
 ## 结语
 
 本篇文章主要介绍一下近期的游戏外挂发展状况，不可否认的一点是最近反外挂的更多还是由人工去确认并处罚的。

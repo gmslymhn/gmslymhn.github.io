@@ -118,4 +118,4 @@ ps：Fake Location必须要root权限，不然你拿这软件也没啥用
 至此，教程就算结束了，我们可以通过Fake Location的专业版本去实现虚拟定位，路线模拟等等操作。
 
 ## 最终效果
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iuR0D25qf4ra&pwd=6xh7&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=iuR0D25qf4ra&pwd=6xh7&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>

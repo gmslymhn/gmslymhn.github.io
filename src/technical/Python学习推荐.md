@@ -56,13 +56,13 @@ Python 类库（模块）极其丰富，这使得 Python 几乎无所不能，�
 本书是享誉全球的Python入门书，影响了超过250万读者。全书分两部分：第一部分介绍用Python编程所必须了解的基本概念，包括强大的Python库和工具，以及列表、字典、if语句、类、文件和异常、代码测试等内容；第二部分将理论付诸实践，讲解如何开发三个项目，包括简单的2D游戏、利用数据生成交互式的信息图以及创建和定制简单的Web应用，并帮助读者解决常见编程问题和困惑。第3版进行了全面修订：使用了文本编辑器VS Code，新增了介绍removeprefix()方法和removesuffix()方法的内容，并且在项目中利用了Matplotlib和Plotly的最新特性，等等。
 ## 电子书下载链接
 
-[](https://netlify-lz.tyut.tech/?fid=iccsi29g8eza&pwd=6if9&isNewd=https://innlab.lanzn.com)
+[](http://lz.tyut.tech/lz?fid=iccsi29g8eza&pwd=6if9&isNewd=https://innlab.lanzn.com)
 
 ## 视频推荐
 
 B站《Python编程：从入门到实践》官方随书教程，up主：[林粒粒呀](https://space.bilibili.com/523995133)
 
 你觉得自己这辈子都学不会编程？超超超基础Python课程，3小时快速入门 【自学Python教程合集】
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iVtPn29g9k1i&pwd=8rhc&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=iVtPn29g9k1i&pwd=8rhc&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
 如果你觉得这辈子都学不会编程的话……要不要再试一次？∠( ᐛ 」∠)_
 超级超级基础 Python 入门教程，已经帮助无数同学成功入门Python啦

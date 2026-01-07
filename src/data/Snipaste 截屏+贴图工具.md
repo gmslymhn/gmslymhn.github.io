@@ -52,4 +52,4 @@ Snipaste 是免费软件，它也很安全，没有广告、不会扫描你的�
 
 ## 下载链接
 
-[Snipaste](https://netlify-lz.tyut.tech/?fid=irNyv273voeh&pwd=6i6s&isNewd=https://innlab.lanzn.com)
+[Snipaste](http://lz.tyut.tech/lz?fid=irNyv273voeh&pwd=6i6s&isNewd=https://innlab.lanzn.com)

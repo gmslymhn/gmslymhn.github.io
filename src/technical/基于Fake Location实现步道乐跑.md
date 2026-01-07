@@ -40,4 +40,4 @@ cover: "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/dfa33d75e81c2e
 基于Fake Location实现步道乐跑
 <!-- more -->
 **特别声明**：此内容仅供交流学习，不提供任何破解成品；感谢大家支持，一起交流学习
-<video width="100%" controls> <source src="https://vercel-lz.tyut.tech/api/lz?fid=iAp9G2b5hzfg&pwd=9d7o&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
+<video width="100%" controls> <source src="http://lz.tyut.tech/lz?fid=iAp9G2b5hzfg&pwd=9d7o&isNewd=https://innlab.lanzn.com" type="video/mp4"> 您的浏览器不支持MP3播放 </video>
