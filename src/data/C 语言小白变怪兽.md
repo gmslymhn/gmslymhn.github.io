@@ -50,7 +50,7 @@ cover: "https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/39345a4aab15b7
 1.初级部分重点讲解语法知识，培养编程思维；
 2.高级部分还会讲解内存、多文件编程（模块化开发）、字符编码、调试技巧、缓冲区（缓存）、复杂指针（花 样指针）、数据存储格式、职业规划等进阶技能。
 
-<PdfPreview pdfUrl="http://lz.tyut.tech/lz?fid=i03MR29g34kf&pwd=bqjf&isNewd=https://innlab.lanzn.com" />
+<PdfPreview pdfUrl="https://1317701310-9jt40ba4e0.ap-beijing.tencentscf.com/lz?fid=i03MR29g34kf&pwd=bqjf&isNewd=https://innlab.lanzn.com" />
 
 ## 下载链接
 
