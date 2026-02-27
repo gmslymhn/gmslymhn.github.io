@@ -2,8 +2,11 @@ import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 export default defineUserConfig({
-  base: "/",
 
+  head: [
+    ['meta', { name: 'referrer', content: 'no-referrer' }]
+  ],
+  base: "/",
   lang: "zh-CN",
   title: "GM",
   description: "",
