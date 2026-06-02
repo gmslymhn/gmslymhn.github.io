@@ -14,7 +14,7 @@ export default navbar([
   },
   {
     text: "标签",        // 显示文本
-    link: "/tag/音乐分享/",          // 链接路径
+    link: "/tag/音乐/",          // 链接路径
     icon: "code-branch",       // 图标（可选）
   },
   "/link/",

@@ -35,18 +35,21 @@ tag:
 [首页 - 知乎](https://www.zhihu.com/)
 
 [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
+
+[粉笔教育官网](https://www.fenbi.com/page/home)
 :::
 
 
 
 ::: tip  关注链接
 
-[国家公务员局](http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html)
+[国家公务员局](http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html
 
 [人事考试网 - 山西省人力资源和社会保障厅](https://rst.shanxi.gov.cn/rsks/)
 
 [中国人民解放军专业技术人才网](http://81rc.81.cn/)
 
+[共产党员网_中共中央组织部](https://www.12371.cn/)
 
 :::
 
