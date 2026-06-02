@@ -6,8 +6,22 @@ cover: https://picabstract-preview-ftn.weiyun.com/ftn_pic_abs_v3/e8ef01b44aaa372
 article: false
 timeline: false
 category:
-  - 常用链接
-
+  - 技术分享
+  - 加密
+  - 日记
+  - 视频
+  - 文章
+  - 项目
+  - 音乐
+  - 资料分享
+tag:
+  - 加密
+  - 日记
+  - 诗词
+  - 文章
+  - 项目
+  - 源码
+  - 音乐
 ---
 
 ::: info 常用链接
