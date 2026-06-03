@@ -53,7 +53,7 @@
       imgLazyload: true,//图片懒加载
       imgSize: true,//允许指定图片尺寸
       // include: true,//支持包含外部文件
-      // mark: true,//支持==高亮==语法
+      mark: true,//支持==高亮==语法
       // plantuml: true,//支持PlantUML图表
       // spoiler: true,//支持隐藏内容（剧透效果）
       // stylize: [//自定义样式转换（示例中将<em>Recommended</em>转换为带"tip"样式的徽章）
